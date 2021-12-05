@@ -1,4 +1,4 @@
-package com.example.designpattern.structural.strategy;
+package com.example.designpattern.behavioral.strategy;
 
 /**
  * <p>Exclusive Copyright</p>
