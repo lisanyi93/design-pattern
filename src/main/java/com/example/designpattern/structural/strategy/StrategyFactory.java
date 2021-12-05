@@ -1,4 +1,4 @@
-package com.example.designpattern.strategy;
+package com.example.designpattern.structural.strategy;
 
 import java.util.HashMap;
 import java.util.Map;

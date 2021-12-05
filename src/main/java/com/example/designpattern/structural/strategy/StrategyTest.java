@@ -1,8 +1,4 @@
-package com.example.designpattern.strategy;
-
-import org.springframework.util.StringUtils;
-
-import java.util.Comparator;
+package com.example.designpattern.structural.strategy;
 
 /**
  * <p>Exclusive Copyright</p>

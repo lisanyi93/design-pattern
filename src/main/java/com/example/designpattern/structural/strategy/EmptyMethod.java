@@ -1,4 +1,4 @@
-package com.example.designpattern.strategy;
+package com.example.designpattern.structural.strategy;
 
 /**
  * <p>Exclusive Copyright</p>
@@ -6,7 +6,7 @@ package com.example.designpattern.strategy;
  * @author lisanyi
  * @version 1.0
  * @Description：
- * @Date: Created in 2021­02­19 9:53
+ * @Date: Created in 2021 0219 9:53
  */
 public class EmptyMethod implements MethodInterface{
 

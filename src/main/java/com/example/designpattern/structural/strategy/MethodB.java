@@ -1,4 +1,4 @@
-package com.example.designpattern.strategy;
+package com.example.designpattern.structural.strategy;
 
 /**
  * <p>Exclusive Copyright</p>
@@ -8,10 +8,11 @@ package com.example.designpattern.strategy;
  * @Description：
  * @Date: Created in 2021­02­19 9:53
  */
-public class MethodC implements MethodInterface{
+public class MethodB implements MethodInterface{
+
 
     @Override
     public void excute() {
-        System.out.println("策略C");
+        System.out.println("策略B");
     }
 }
